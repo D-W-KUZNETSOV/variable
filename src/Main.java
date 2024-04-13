@@ -51,7 +51,7 @@ public class Main {
         var total = 640;
         var one = 8;
         var result2 = total/one;
-        System.out.println("всего работников в компании  = "+result2 +"человек");
+        System.out.println("всего  работников в компании  = "+result2 +"человек");
 
         var result3 = result2 + 94;
         var result4 = result3 * 8;
